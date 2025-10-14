@@ -1,7 +1,4 @@
-# Certificates
-
-## 📜 Certificate
-1) SQL for Databases – [Coursera]
+## 📜 Certificates
 
 ## Internship 
 
