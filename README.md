@@ -6,7 +6,7 @@
 
 ▪️EDUCBA – SQL Database – Advanced SQL queries, data manipulation, and database management.
 
-▪️"Microsoft" – Excel and Copilot Fundamentals – Excel automation with AI-powered Copilot features.
+▪️Microsoft – Excel and Copilot Fundamentals – Excel automation with AI-powered Copilot features.
 
 ▪️Microsoft – Copilot for Power BI – Interactive dashboards and analytics using AI integration.
 
